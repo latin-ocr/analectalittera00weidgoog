@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./analectalittera00weidgoog_0005.png"; bbox 0 0 638 1165; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 135 120 501 185">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 135 120 501 185">
+     <span class='ocr_line' id='line_1_1' title="bbox 135 120 501 185; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 135 152 213 185; x_wconf 89' lang='lat' dir='ltr'>AN</span> <span class='ocrx_word' id='word_1_2' title='bbox 235 120 501 185; x_wconf 51' lang='lat' dir='ltr'><strong>ALECTJQ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 62 215 584 319">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 62 215 584 319">
+     <span class='ocr_line' id='line_1_2' title="bbox 62 215 584 319; baseline 0.002 -41"><span class='ocrx_word' id='word_1_3' title='bbox 62 216 261 278; x_wconf 90' lang='lat' dir='ltr'>LITT</span> <span class='ocrx_word' id='word_1_4' title='bbox 272 215 584 319; x_wconf 46' lang='lat' dir='ltr'>EEERARIA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 95 344 540 382">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 95 344 540 382">
+     <span class='ocr_line' id='line_1_3' title="bbox 95 344 540 382; baseline -0.002 0"><span class='ocrx_word' id='word_1_5' title='bbox 95 347 237 382; x_wconf 89' lang='lat' dir='ltr'>LIBRIS</span> <span class='ocrx_word' id='word_1_6' title='bbox 276 344 540 381; x_wconf 92' lang='lat' dir='ltr'><strong>RARIORIBVS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 271 411 378 427">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 271 411 378 427">
+     <span class='ocr_line' id='line_1_4' title="bbox 271 411 378 427; baseline 0.009 -1"><span class='ocrx_word' id='word_1_7' title='bbox 271 411 378 427; x_wconf 76' lang='lat' dir='ltr'>EEEEE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 39 490 582 1113">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 39 490 582 1113">
+     <span class='ocr_line' id='line_1_5' title="bbox 39 490 582 1113; baseline 0 52"><span class='ocrx_word' id='word_1_8' title='bbox 39 490 582 1113; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

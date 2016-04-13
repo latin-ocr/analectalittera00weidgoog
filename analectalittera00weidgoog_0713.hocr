@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./analectalittera00weidgoog_0713.png"; bbox 0 0 638 1165; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 374 35 611 554">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 374 35 611 554">
+     <span class='ocr_line' id='line_1_1' title="bbox 374 35 611 554; baseline 0 -359"><span class='ocrx_word' id='word_1_1' title='bbox 374 35 611 554; x_wconf 95' lang='lat' dir='ltr'>   </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 335 172 531 235">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 335 172 531 235">
+     <span class='ocr_line' id='line_1_2' title="bbox 415 172 498 208; baseline 0.012 -3"><span class='ocrx_word' id='word_1_2' title='bbox 415 172 498 208; x_wconf 42' lang='grc' dir='ltr'>’.Αἶα</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 335 208 531 235; baseline 0.005 -11"><span class='ocrx_word' id='word_1_3' title='bbox 335 208 419 235; x_wconf 44' lang='lat' dir='ltr'>quon-¹</span> <span class='ocrx_word' id='word_1_4' title='bbox 487 213 489 216; x_wconf 95' lang='lat'>·</span> <span class='ocrx_word' id='word_1_5' title='bbox 505 211 507 215; x_wconf 77' lang='lat'><em>&#39;</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 527 214 531 216; x_wconf 49' lang='grc'><strong>“</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
